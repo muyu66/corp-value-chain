@@ -1,0 +1,7 @@
+Dockerfile
+Vagrantfile
+
+data/
+badger/
+public/
+coverage.txt
